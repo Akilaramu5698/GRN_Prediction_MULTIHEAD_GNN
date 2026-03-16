@@ -5,10 +5,9 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-ee4c2c.svg)](https://pytorch.org/)
 [![PyTorch Geometric](https://img.shields.io/badge/PyG-2.0+-green.svg)](https://pytorch-geometric.readthedocs.io/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/paper-DREAM5-brightgreen)](https://dream5.bio.nyu.edu/)
 
 <div align="center">
-  <img src="figures/architecture_overview.png" alt="MH-GNN Architecture" width="800"/>
+ 
   <p><em>Multi-Head GNN architecture combining GCN, GAT, and GraphSAGE for GRN inference</em></p>
 </div>
 
