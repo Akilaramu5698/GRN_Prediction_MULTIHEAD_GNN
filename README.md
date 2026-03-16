@@ -36,10 +36,10 @@ This repository implements a ** multi-head graph neural network** for inferring 
 ### Prerequisites
 
 # Python 3.8 or higher
-python --version
+  python --version
 
 # CUDA (optional, for GPU acceleration)
-nvidia-smi
+  nvidia-smi
 
 ```bash
 # **1. Clone**
